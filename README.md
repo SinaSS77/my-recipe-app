@@ -4,5 +4,5 @@ This is a simple SPA that can help users browse their food recipes and has a nic
 
 ## Screenshots
 
-![Normal View]()
-![Searched View]()
+![Normal View](https://github.com/SinaSS77/my-recipe-app/blob/main/public/Assets/NormalView.png)
+![Searched View](https://github.com/SinaSS77/my-recipe-app/blob/main/public/Assets/SearchedView.png)
